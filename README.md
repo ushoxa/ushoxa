@@ -1,6 +1,6 @@
 <div align="center">
 
-![ushoxa — Shoxrux Umirzoqov, cybersecurity and CTF](header.svg)
+![Al0n3_ — Shoxrux Umirzoqov, Fr4ctur3, cybersecurity and CTF](banner.png)
 
 ### Break it down. Figure it out. Write it up.
 
@@ -16,14 +16,15 @@ Cybersecurity enthusiast & CTF player from **Samarkand, Uzbekistan** · **Fr4ctu
 
 ## `$ whoami`
 
-I'm **Shoxrux Umirzoqov**, known online as **ushoxa**. I learn cybersecurity by working through challenges, investigating how systems behave, and documenting the path from a clue to a reproducible solution.
+I'm **Shoxrux Umirzoqov**, known online as **Al0n3_** (GitHub: **ushoxa**). I’m a **10th-grade student at the Presidential School in Samarkand**, aspiring to study at a top university. I learn cybersecurity by working through challenges, investigating how systems behave, and documenting the path from a clue to a reproducible solution.
 
 My GitHub is where I share CTF writeups, solver scripts, and the lessons behind them. I enjoy the point where a strange file, a packet capture, or an unexpected response starts to make sense.
 
 ```text
-┌─[ ushoxa@lab ]
+┌─[ Al0n3_@lab ]
 ├─ focus     cybersecurity & capture the flag
 ├─ team      Fr4ctur3 / Only_AI
+├─ student   Grade 10 · Presidential School in Samarkand
 ├─ approach  inspect → question → test → document
 └─ goal      understand the system, then share the reasoning
 ```
