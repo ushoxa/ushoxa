@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="ushoxa — Shoxrux Umirzoqov. Cybersecurity. CTF. Break it down. Figure it out.">
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1b2938" stroke-width="1"/></pattern><linearGradient id="glow"><stop stop-color="#6ef5c1"/><stop offset="1" stop-color="#54b5ff"/></linearGradient></defs>
+<rect width="1200" height="360" rx="20" fill="#0d1117"/>
+<rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+<path d="M0 60H1200" stroke="#263747"/><circle cx="36" cy="30" r="6" fill="#ff6875"/><circle cx="58" cy="30" r="6" fill="#ffc66d"/><circle cx="80" cy="30" r="6" fill="#6ef5c1"/>
+<g font-family="monospace"><text x="112" y="36" font-size="14" fill="#8b9fb3">ushoxa@lab: ~/security</text>
+<text x="60" y="118" font-size="16" letter-spacing="4" fill="#6ef5c1">EXPLORE / REVERSE / UNDERSTAND</text>
+<text x="55" y="204" font-size="90" font-weight="700" letter-spacing="-4" fill="#edf7ff">ushoxa<tspan fill="#6ef5c1">_</tspan></text>
+<text x="60" y="248" font-size="23" fill="#b1c6d9">Shoxrux Umirzoqov</text>
+<text x="60" y="307" font-size="16" fill="#8b9fb3">CYBERSECURITY  ·  CTF  ·  LEARNING IN PUBLIC</text>
+<path d="M965 105l115 48v74l-115 57-115-57v-74z" stroke="url(#glow)" stroke-width="2" fill="#101c27"/>
+<text x="898" y="206" font-size="51" fill="#6ef5c1">{0x}</text>
+<text x="883" y="250" font-size="12" letter-spacing="2" fill="#8b9fb3">FOLLOW THE EVIDENCE</text></g>
+<rect x="0" y="352" width="1200" height="8" rx="4" fill="url(#glow)"/>
+</svg>
